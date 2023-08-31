@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savi-mudgal98
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS .
+- 🌱 I’m currently learning Next JS .
 - 💞️ I’m looking to collaborate on projects related to frontend development
 - 📫 How to reach me savimudgal4@gmail.com
 
